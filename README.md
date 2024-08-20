@@ -1,0 +1,2 @@
+# A-Faster-R-CNN-Approach-For-Bone-Fracture-Detection-in-Telesurgery-Systems-in-Healthcare-4.0
+Developed a deep learning-based framework using ResNet50 and telesurgery techniques for accurate detection and minimally invasive treatment of bone fractures in X-ray images, enhancing diagnostic precision and patient care. This approach utilizes a remote-controlled arm for surgical interventions, reducing the need for in-person consultations.
